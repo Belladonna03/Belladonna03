@@ -18,7 +18,7 @@
 ---
 
 ### 👩‍💻 About Me:
-I am a **Data Scientist | ML Engineer** <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5tam11a29ubTE5czhqZ2NobTlwajE2YnMwM3Q2cmJhNmdmMjloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="30"> from Russia.
+I am a **Data Scientist | ML Engineer** <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5tam11a29ubTE5czhqZ2NobTlwajE2YnMwM3Q2cmJhNmdmMjloZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif" width="30">
 - 🌱 I specialize in building and optimizing machine learning models, particularly in the areas of **NLP**.
 - 📊 Passionate about exploring new technologies in **Data Science**, working with large datasets, and solving real-world problems using **ML algorithms**.
 - ⚡ In my free time, I enjoy solving coding challenges on Leetcode and staying updated with the latest trends in **AI** and **machine learning**.
