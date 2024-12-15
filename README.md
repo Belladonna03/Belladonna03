@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGt4azJqa3JtM3hrejJhM3ZubzEyc3luNjFlcjd4MW90Y281MHo4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZyNXJxemZuNGVsa3ZmZnl0eHFhaHViZmlkeDB6MmFhd2Q2dGthaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/57nf4oyyMmZ2L9QqJN/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/darinakovaleva/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
